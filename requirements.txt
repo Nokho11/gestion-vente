@@ -4,3 +4,4 @@ bcrypt
 xlsxwriter
 openpyxl
 passlib[bcrypt]
+fpdf2
