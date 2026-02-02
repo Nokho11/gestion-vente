@@ -1,6 +1,6 @@
 streamlit
 pandas
-openpyxl
+bcrypt
 xlsxwriter
-matplotlib
-numpy
+openpyxl
+passlib[bcrypt]
